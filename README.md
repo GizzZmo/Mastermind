@@ -1,5 +1,5 @@
 Jon Arve Ovesen  770215  T015
-a06jonov@his.se
+jonovesen@gmail.com
 
 
 Innleveringsoppgave 1
