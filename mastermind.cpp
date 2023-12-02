@@ -26,10 +26,10 @@ Dato:		28.februar 2008
      og cout (ostream). 
   
   2. Inkludering av stdlib header siden jeg skal bruke srand funksjonen. 
-     Se http://www.cplusplus.com/reference/clibrary/cstdlib/srand.html for mer info. 
+     Se https://www.geeksforgeeks.org/time-function-in-c/ for mer info. 
   
   3. Inkludering av header filen time siden jeg skal bruke klokken i systemet til random pseudo 
-    generator. Se http://www-ccs.ucsd.edu/c/time.html om denne. 
+    generator. Se https://www.geeksforgeeks.org/time-function-in-c/ om denne. 
   
   4. Inkludering av header filen iodos, siden jeg skal vil ha støtte for øæå.
   
