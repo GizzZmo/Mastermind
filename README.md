@@ -184,9 +184,9 @@ Hvit pinne betyr at du har rett tall men på feil plass.
 	*/
 
 #include <iostream> /*Inkludering av iostream siden jeg skal bruke funksjonene cin (istream), og cout (ostream).*/
-#include <stdlib.h> /*Inkludering av stdlib header siden jeg skal bruke srand funksjonen som finnes i denne. Se http://www.cplusplus.com/reference/clibrary/cstdlib/srand.html for mer info. */
+#include <stdlib.h> /*Inkludering av stdlib header siden jeg skal bruke srand funksjonen som finnes i denne. Se https://cplusplus.com/reference/cstdlib/rand/?kw=rand for mer info. */
 #include <time.h>  /*Inkludering av header filen time siden jeg skal bruke klokken i systemet til random pseudo generator. 
-Se http://www-ccs.ucsd.edu/c/time.html om denne.*/
+Se https://www.geeksforgeeks.org/time-function-in-c/ om denne.*/
 #include "iodos.h"  /*Inkludering av header filen iodos, siden jeg skal vil bruke øæå i dos consol.*/
 #define antall_farger 6/*Her defineres antall farger som må være over 4.*/
 #define maks_antall_omganger 10 /*Her defineres antall forsøk spilleren har på å gjette riktig kode.*/
